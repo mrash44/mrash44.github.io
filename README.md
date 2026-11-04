@@ -1,16 +1,43 @@
-## Hi there 👋
+# pa-toolkit
 
-<!--
-**mrash44/mrash44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔════════════════════════════════════════════════════════════════╗
+║  1UP  000000            HI-SCORE  999999            ♥ ♥ ♥      ║
+║                                                                ║
+║    ████   ███       █████  ███   ███  █     █   █ ███ █████    ║
+║    █   █ █   █        █   █   █ █   █ █     █  █   █    █      ║
+║    ████  █████ ███    █   █   █ █   █ █     ███    █    █      ║
+║    █     █   █        █   █   █ █   █ █     █  █   █    █      ║
+║    █     █   █        █    ███   ███  █████ █   █ ███   █      ║
+║                                                                ║
+║           ·  P E R S O N A L   A S S I S T A N T  ·            ║
+║                                                                ║
+║                           ▄█▄                                  ║
+║                        ▄███████▄                               ║
+║                       ██▀▀▀▀▀▀▀██                              ║
+║                       ██ ▄▀ ▀▄ ██   ▄█▄ ▄█▄                    ║
+║                       ███▄▄▄▄▄███   ███████                    ║
+║                         ▀█████▀      ▀███▀                     ║
+║                      ▄▄█████████▄▄     ▀                       ║
+║                     ██ ██ P A ██ ██▄ [@]                       ║
+║                        █████████  ▀█▀                          ║
+║                        ███▀ ▀███                               ║
+║                       ▀▀▀▀   ▀▀▀▀                              ║
+║                                                                ║
+║           [@] MAIL      [#] CALENDAR      [x] TASKS            ║
+║                                                                ║
+║                       ▶  PRESS START  ◀                        ║
+║                                                                ║
+║                PLAYER 1: ME       PLAYER 2: MUM                ║
+║         © 2026  ·  INSERT COIN  ·  NO CONTINUES NEEDED         ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+A personal assistant toolkit that lets Claude help manage email, calendars and
+to-dos for a household. It runs privately on the owner's own computer and talks
+directly to Google — there is no hosted service and no data is shared with anyone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Home page:** [index.html](index.html)
+- **Privacy policy:** [privacy.html](privacy.html)
+
+> 8-bit status: `LEVEL 1 — SETUP` · `HP ♥♥♥` · `TOKENS: STORED SAFELY`
